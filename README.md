@@ -1,2 +1,2 @@
-# blog-collection
-收集个人看到的通俗易懂的blog地址
+【# 深拷贝与浅拷贝】
+[深拷贝与浅拷贝详解](https://blog.csdn.net/baiye_xing/article/details/71788741)
